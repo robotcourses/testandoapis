@@ -6,7 +6,7 @@
 
 :arrow_right: Antes de chegar a versão final que está nessa branch, perseguimos juntos durante o curso toda evolução do código, de uma versão extremamente básica, até o mais avançado.
 Utilizando diversas bibliotecas para apoiar o desenvolvimento, como RequestsLibrary e a JsonLibrary, vimos conceitos da base do Robot Framework como a criação de novas
-Users Keywords, criação de Argumentos e Retornos. Também vimos como podemos melhorar percorrer um objeto JSON utilizando JSON Path, e muito mais.
+Users Keywords, criação de Argumentos e Retornos. Também vimos como podemos melhorar percorrer um objeto JSON utilizando JSON Path, e muito mais. :relaxed:
 
 :arrow_right: Para guiar todo o nosso curso, fizemos uso do JSON Placeholder, que é uma API publica mockada, para simular um sistema de Pedidos de Venda. Mas o foco não foi em regras de negócio
 e sim na criação de estruturas robustas para vocês possam utilizar durante o dia a dia de vocês, em seus trabalhos. :wink:
