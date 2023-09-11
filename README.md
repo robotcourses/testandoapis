@@ -14,4 +14,4 @@ e sim na criação de estruturas robustas para vocês possam utilizar durante o 
 :arrow_right: Então, ao fim do curso gratuíto, você estará apto a desenvolver excelentes projetos de automação para APIs no seu trabalho, de uma forma simples e eficaz, usando uma dos frameworks 
 de teste mais populares da atualidade. :sunglasses: :sunglasses: :sunglasses:
 
-:hug: Grande abraço a todos!
+:hugs: Grande abraço a todos!
