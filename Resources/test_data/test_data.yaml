@@ -1,0 +1,18 @@
+url:
+  qa: https://jsonplaceholder.typicode.com
+  prod: https://jsonplaceholder-prod.typicode.com
+  preprod: https://jsonplaceholder-preprod.typicode.com
+
+user_data:
+  qa:
+    user_name: Robot User QA
+    user_email: robot_user_qa@robot.com
+    password: robotQA123
+  prod:
+    user_name: Robot User PROD
+    user_email: robot_user_prod@robot.com
+    password: robotPROD123
+  preprod:
+    user_name: Robot User PREPRD
+    user_email: robot_user_preprod@robot.com
+    password: robotPREPROD123

@@ -1,0 +1,17 @@
+{
+  "order": {
+    "order_id": "",
+    "total_price": 0,
+    "status": "",
+    "customer": {
+      "name": "",
+      "email": ""
+    },
+    "items": [],
+    "shipping_address": {
+      "street": "",
+      "city": "",
+      "zipcode": ""
+    }
+  }
+}

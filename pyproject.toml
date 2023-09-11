@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "testandoapis"
+version = "0.1.0"
+description = ""
+authors = ["robotcourses <git@robotcourses.com.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+robotframework = "^6.1.1"
+robotframework-faker = "^5.0.0"
+robotframework-requests = "^0.9.5"
+robotframework-jsonlibrary = "^0.5"
+pyyaml = "^6.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
